@@ -6,15 +6,35 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+- [Deployment](#deployment)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Host used](#host-used)
 - [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![project screenshot](images/output.png)
+### Dekstop View
+
+![project screenshot](images/desktop-view.png)
+
+### Tablet View
+
+![project screenshot](images/tablet-view.png)
+
+### Mobile View
+
+![project screenshot](images/mobile-view.png)
+
+## Deployment
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/coder-ralph/QR-code-component)
+- Live Site URL: [Add live site URL here](https://qr-code-component-beta-three.vercel.app/)
 
 ## My process
 
@@ -25,6 +45,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 
+### Host used
+
+- [Vercel](https://vercel.com/)
+
 ## Author
 
 - Frontend Mentor - [@Ralph Rosael](https://www.frontendmentor.io/profile/coder-ralph)
+- GitHub - [@Ralph Rosael](https://github.com/coder-ralph)
