@@ -47,7 +47,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Host used
 
-- [Vercel](https://vercel.com/)
+This project is hosted on [Vercel](https://vercel.com/). I chose Vercel for its seamless deployment and hosting capabilities.
 
 ## Author
 
