@@ -17,15 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-### Dekstop View
+#### Dekstop View
 
 ![project screenshot](images/desktop-view.png)
 
-### Tablet View
+#### Tablet View
 
 ![project screenshot](images/tablet-view.png)
 
-### Mobile View
+#### Mobile View
 
 ![project screenshot](images/mobile-view.png)
 
@@ -33,8 +33,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/coder-ralph/QR-code-component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-beta-three.vercel.app/)
+- Solution URL: [GitHub Repository](https://github.com/coder-ralph/QR-code-component)
+- Live Site URL: [Deployed Site](https://qr-code-component-beta-three.vercel.app/)
 
 ## My process
 
